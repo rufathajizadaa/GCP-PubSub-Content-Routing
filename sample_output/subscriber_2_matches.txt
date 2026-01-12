@@ -1,0 +1,709 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+[RULES RELOADED] Subscriber 2
+Subscriber 2 listening...
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[SUB 2 MATCH] (INFO) User user253 registered device
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[SUB 2 MATCH] (INFO) User user253 registered device
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user939 reset MFA[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[SUB 2 MATCH] (INFO) User user253 registered device
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616
+[SUB 2 MATCH] (DEBUG) Cache write completed for user470
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user544
+[SUB 2 MATCH] (INFO) User user939 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user468
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user927
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user233
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user912
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user311
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user130
+[SUB 2 MATCH] (DEBUG) Cache write completed for user402
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user955
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user746
+[SUB 2 MATCH] (ERROR) Failed to upload document for user541
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user433
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user244
+[SUB 2 MATCH] (ERROR) Failed to upload document for user714
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user643
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user325
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to upload document for user994
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user253 registered device
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user466
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user779 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user614
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (ERROR) Failed to validate credentials for user366
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user669
+[SUB 2 MATCH] (INFO) User user208 reset MFA
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user987
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user375
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (WARN) Potential brute-force activity involving user641
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (DEBUG) Cache write completed for user207
+[RULES RELOADED] Subscriber 2
+[RULES RELOADED] Subscriber 2
+[SUB 2 MATCH] (INFO) User user999 reset MFA
+[SUB 2 MATCH] (ERROR) Failed to upload document for user616

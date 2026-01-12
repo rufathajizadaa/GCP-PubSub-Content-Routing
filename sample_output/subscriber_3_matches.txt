@@ -1,0 +1,806 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+[RULES RELOADED] Subscriber 3
+Subscriber 3 listening...
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user158
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user777
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user941
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user654
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user415
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user159
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user804
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user974
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user371
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user328
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user620
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user479
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user237
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user682
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user642
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user427
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user201
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user632
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user206
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user232
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user689
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user861
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user264
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user702
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user683
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user918
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user926
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user663
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user510
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user138
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user673
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (WARN) Unexpected location login attempt for user609
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user641
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user355
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user835
+[SUB 3 MATCH] (WARN) Multiple session resets detected for user619
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user812
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user546
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ALERT) Unauthorized access attempt involving user877
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Could not write data to storage for user891
+[RULES RELOADED] Subscriber 3
+[RULES RELOADED] Subscriber 3
+[SUB 3 MATCH] (ERROR) Failed to generate security token for user345
+[RULES RELOADED] Subscriber 3

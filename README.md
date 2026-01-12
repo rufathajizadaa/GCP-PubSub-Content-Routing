@@ -1,6 +1,3 @@
-Got it — you want **one single, clean Markdown file** with no broken fences. Here is the corrected README as **one proper `.md` file**, ready to paste directly into `README.md`:
-
-````md
 # Content-Based Subscriptions on Google Cloud Pub/Sub
 
 This project implements **content-based message filtering** on top of Google Cloud Pub/Sub. Since Pub/Sub natively supports topic-based routing only, subscribers receive all messages and apply **regex-based rules locally** to decide which messages to process. The system also supports **dynamic rule reloading at runtime** without restarting subscribers.
